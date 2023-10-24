@@ -2,21 +2,14 @@
 Gitam Chatbot automates, enhances, and engages!
 The Gitam App is a mobile application that provides a digital platform for students, faculty, and staff at Gitam University to access academic resources and campus services. Gitam App aims to provide its features and functionalities on the web, making it accessible to a wider audience. The app will allow users to access their academic profile, view course schedules, check grades and attendance, and communicate with peers and professors. Additionally, users can access campus services like library resources, transportation, and hostel services. This will provide a seamless user experience that is easy to navigate and use, providing students and faculty with a convenient tool for academic success. The Gitam University chatbot provides a hassle-free and convenient experience to students and improves their overall engagement with the university. The chatbot is made to answer questions and provide details on a range of academic programmes, student services, the admissions procedure, scholarships, and much more. Students will always be able to get guidance because of the chatbot's 24/7 operation and accessibility.
 
-1. INTRODUCTION
-A chatbot for universities is a computer software created to simulate conversations with student users, usually through text exchanges. Artificial intelligence and natural language processing technologies are frequently used to power these chatbots, allowing them to understand and react to user inquiries like a human would. University chatbots can be utilised for a variety of tasks, such as assisting students, informing potential students about admissions, responding to questions from students about courses and academic programmes, and more. University chatbots are a widely used tool that helps colleges better serve their students, improve user experience, and increase engagement and communication with the university community.
-One of our hypotheses was that information provided by chatbots would be beneficial for Gitam's first-year students and Gitam aspirants, providing them with knowledge regarding issues we believe are crucial. One of our hypotheses was that information given by chatbots would be useful for new students at Gitam, giving them information about things that we consider to be important when you’re a first year student.
-1.1. NEED
+**NEED**
 To give the students a quick and easy way to access information and services. Moreover, to boost interaction with the university community and the overall student experience. Gitam chatbot can minimise workload for university staff by automating responses to frequent questions, which will assist streamline processes. This can free up staff time so they can concentrate on more intricate or customised interactions with students.
-1.2. PURPOSE
+
+**PURPOSE**
 The purpose of the Gitam chatbot project is to create an automated system that can interact with students and provide them with information and support in a conversational manner.
 
-
-Gitam University chatbot project is to leverage artificial intelligence (AI) and natural language processing (NLP) technologies to provide a conversational interface for the students to interact with the university's digital systems and services. Chatbot can automate many routine tasks, answer frequently asked questions, and provide personalised guidance and support to users, thereby enhancing their experience and improving their satisfaction with the university.
-In summary, Gitam Chatbot can serve multiple purposes, ranging from improving student experience and engagement to enhancing operational efficiency and providing valuable data insights. By leveraging AI and NLP technologies, the chatbot can provide a seamless and personalised interface for users, helping them achieve their academic goals and succeed in their careers.
-
-OBJECTIVES
-● Providing accurate and relevant information: The chatbot should be able to give students accurate and relevant information depending on their queries, making sure that they receive the information they require quickly and effectively.
-● Improving response time: The chatbot should be able to react to student enquiries quickly and efficiently, minimising the time it takes for students to acquire the information they need.
-● Enhancing student engagement: The chatbot should be created so that it can interact and converse with students, improving their overall perception of the university.
-● Providing personalised support: The chatbot should be able to provide individualised support to students based on their specific requirements and preferences, creating a more personalised and customised experience.
-● Reducing manual workload: The chatbot reduces manual workload and allows university staff to focus on more important tasks. 
+**Providing accurate and relevant information:** The chatbot should be able to give students accurate and relevant information depending on their queries, making sure that they receive the information they require quickly and effectively.
+**Improving response time:** The chatbot should be able to react to student enquiries quickly and efficiently, minimising the time it takes for students to acquire the information they need.
+**Enhancing student engagement:** The chatbot should be created so that it can interact and converse with students, improving their overall perception of the university.
+**Providing personalised support:** The chatbot should be able to provide individualised support to students based on their specific requirements and preferences, creating a more personalised and customised experience.
+**Reducing manual workload:** The chatbot reduces manual workload and allows university staff to focus on more important tasks. 
